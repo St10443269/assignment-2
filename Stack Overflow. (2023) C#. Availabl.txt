@@ -1,0 +1,20 @@
+Stack Overflow. (2023) C#. Available at: https://stackoverflow.blog/c-3 (Accessed: 26 May 2025).
+
+Software Engineering Stack Exchange. (2023) How can I study C# from Stack Overflow. Available at: https://softwareengineering.stackexchange.com/questions/105630/how-can-i-study-c-from-stack-overflow (Accessed: 26 May 2025).
+
+Meta Stack Exchange. (2023) Stack Overflow as a reference in a professional paper/presentation. Available at: https://meta.stackexchange.com/questions/37706/stack-overflow-as-a-reference-in-a-professional-paper-presentation (Accessed: 26 May 2025).
+
+Stack Overflow. (2023) Harvard citation format in R markdown. Available at: https://stackoverflow.com/questions/59604647/harvard-citation-format-in-r-markdown (Accessed: 26 May 2025).
+
+Meta Stack Exchange. (2023) Citing Stack Overflow discussions. Available at: https://meta.stackexchange.com/questions/49760/citing-stack-overflow-discussions (Accessed: 26 May 2025).
+
+Cite Bay. (2023) How to cite Stack Overflow. Available at: http://citebay.com/how-to-cite/stackoverflow/ (Accessed: 26 May 2025).
+
+Stack Overflow Blog. (2023) Building community inclusivity Stack Overflow. Available at: https://stackoverflow.blog/2019/07/18/building-community-inclusivity-stack-overflow/ (Accessed: 26 May 2025).
+
+Meta Stack Exchange. (2023) Style guide for Stack Overflow questions and answers. Available at: https://meta.stackexchange.com/questions/18614/style-guide-for-stack-overflow-questions-and-answers (Accessed: 26 May 2025).
+
+Stack Overflow. (2023) C# Guide - .NET managed language. Available at: https://learn.microsoft.com/en-us/dotnet/csharp/ (Accessed: 26 May 2025).
+
+W3Schools. (2023) C# Tutorial (C Sharp). Available at: https://www.w3schools.com/cs/index.php (Accessed: 26 May 2025).
+ referencing 
